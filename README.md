@@ -11,4 +11,4 @@ ProxyDog is a modern and easy-to-use native packet capture application, with whi
 * ...
 
 
-(Download Linek)[https://apps.apple.com/us/app/proxydog/id1551787527]
+[Download link](https://apps.apple.com/us/app/proxydog/id1551787527)
