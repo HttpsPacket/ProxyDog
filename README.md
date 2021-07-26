@@ -9,3 +9,6 @@ ProxyDog is a modern and easy-to-use native packet capture application, with whi
 * Provide manual mode and automatic mode, convenient for terminal debugging
 * Code highlighting, HTTP/2 and other features support
 * ...
+
+
+(Download Linek)[https://apps.apple.com/us/app/proxydog/id1551787527]
