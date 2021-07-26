@@ -1,5 +1,4 @@
-# ProxyDog
-Web debug tool
+# ProxyDog - Web debug tool
 
 ProxyDog is a modern and easy-to-use native packet capture application, with which you can
 * View details of HTTP, HTTPS, WebSocket network requests, including all Header as well as raw request data.
